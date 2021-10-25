@@ -1,0 +1,14 @@
+.home{
+    display: block;
+    flex-direction: column;
+    flex: auto;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.content{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
